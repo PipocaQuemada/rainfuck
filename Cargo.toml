@@ -1,0 +1,7 @@
+[package]
+name = "rainfuck"
+version = "0.1.0"
+authors = ["pipocaQuemada <eliyahu.ben.miney@gmail.com>"]
+
+[dependencies]
+nom = "^4.0"
